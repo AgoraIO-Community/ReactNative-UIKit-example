@@ -4,7 +4,7 @@ Example code implementing the React Native UIKit
 ## Steps to run
 
 ### IOS
-- run npm `i && npx pod-install`
+- run `npm i && npx pod-install`
 - open the `ios/.xcworkspace` file with xcode
 - code sign and run on iphone
 
