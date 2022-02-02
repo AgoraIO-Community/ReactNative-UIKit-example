@@ -3,10 +3,11 @@ Example code implementing the React Native UIKit with Typescript
 
 ## Steps to run
 
-### IOS
+### iOS
 - run `npm i && npx pod-install`
 - open the `ios/.xcworkspace` file with xcode
-- code sign and run on iphone
+- add permissions for mic and camera in the info.plist
+- code sign and run on an iPhone
 
 ## Android
 - Run `npm i`
